@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mustafa Alabdali (@Roneybishob)
+# 👋 Hi, I'm Mustafa Alabdali 
 
 🎓 **Software Developer** (Graduated from REDU, 2025) based in **Tampere, Finland** 🇫🇮.  
 💻 Passionate about building modern web applications and interactive game experiences.
